@@ -23,6 +23,7 @@
         "@electron-toolkit/preload": "^3.0.1",
         "@electron-toolkit/utils": "^3.0.0",
         "@mdxeditor/editor": "^3.7.0",
+        "jotai": "^2.8.4",
         "lucide-react": "^0.400.0"
     },
     "devDependencies": {
